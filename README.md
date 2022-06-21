@@ -8,7 +8,7 @@
  This is my first NodeJS project, used and done for learning purpose only, following this tutorial :
  https://www.youtube.com/watch?v=NRxzvpdduvQ&ab_channel=SimonDieny-ReconversionFullstackJavaScript
  
- If you want to learn too i advise you to follow the tutorial and not just copy/paste the code.
+ If you want to learn NodeJS i advise you to follow the tutorial and not just copy/paste the code.
  
  --------------------------------------------------------
  
